@@ -80,7 +80,7 @@ Finally whether it be selling or purchasing a home you'd want it to be located i
 Given the information above we can make recommendations on the above topics (bathrooms, grade, zip code) and present the visuals below to drive impact.
 
 
-<img src="images/bathooms.png">
+<img src="images/bathrooms.png">
 
 <img src="images/grade.png">
 
