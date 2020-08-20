@@ -50,11 +50,15 @@ Finally I needed to model my data using the OLS formula. I prebaked the formula 
 I needed to graph the model and look check for homoscedasticity. Overall the homoscedasticity looked in line with what I was trying to model. But the tails on the regression line visual were a little too far away from what I was looking to achieve. I needed to remove some of the residuals so I took all of the data with a price < 1,000,000. This would remove some of those outlier residuals. Once I completed the second OLS Model, the tails looked more normal and our homoscedasticity stayed in tact. Below you can see the models:
 
 OLS 1
+<img src="images/ols11.png">
+
+<img src="images/ols12.png">
 
 
 OLS 2
+<img src="images/ols21.png">
 
-
+<img src="images/ols22.png">
 
 
 ## Interpreting the Data
@@ -73,4 +77,13 @@ Finally whether it be selling or purchasing a home you'd want it to be located i
 
 98112 ($397.5k)
 
-Given the information above we can make recommendations on the above topics (bathrooms, grade, zip code). 
+Given the information above we can make recommendations on the above topics (bathrooms, grade, zip code) and present the visuals below to drive impact.
+
+
+<img src="images/bathooms.png">
+
+<img src="images/grade.png">
+
+<img src="images/zipcodes.png">
+
+
